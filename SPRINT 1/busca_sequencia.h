@@ -1,0 +1,1 @@
+int busca_sequencia123(int array10000[]);
